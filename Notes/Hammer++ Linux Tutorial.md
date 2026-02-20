@@ -1,3 +1,7 @@
+### Tutorial 1:
+[how to get hammer++ running on linux (gmod)](https://youtu.be/3_ATp9nJvE8)  
+https://github.com/Kron4ek/Wine-Builds/releases/download/9.17/wine-9.17-amd64.tar.xz
+### Tutorial 2:
 Source (KSF Discord server): https://discord.com/channels/331531718383108099/1447908896285921291/1447908896285921291
 # Counter-Strike: Source Mapping on Linux (CachyOS / Arch / KDE)
 

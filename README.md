@@ -30,6 +30,7 @@ ________________________________________________
 - ### [BB Commands](https://github.com/Sod-ers/GMod-Resources/blob/main/Commands/BB%20Commands.md)
 - ### [Stellar Commands](https://github.com/Sod-ers/GMod-Resources/blob/main/Commands/Stellar%20Commands.md)
 - ### [Change Default Chatbox Location](https://github.com/Sod-ers/GMod-Resources/blob/main/Notes/Change%20default%20chatbox%20location.md)
+- ### [Hammer++ Linux Tutorial](https://github.com/Sod-ers/GMod-Resources/blob/main/Notes/Hammer%2B%2B%20Linux%20Tutorial.md)
 ________________________________________________
 ## Credits:
 - ### Tier List: Floof, Elysian, Boolamp, Aloha, Toast, The Dwarf Magician, myself, & more
